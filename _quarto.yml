@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Submissions WG Pilot 6"
+  site-url: "https://rconsortium.github.io/submissions-pilot6-adams-tlfs-website"
+  repo-url: "https://github.com/RConsortium/submissions-pilot6-adams-tlfs-website"
+  repo-actions: [edit, issue]
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: https://github.com/RConsortium/submissions-pilot6-adams-tlfs/discussions/4
+        text: Minutes
+    right:
+      - icon: github
+        href: https://github.com/RConsortium/submissions-pilot6-adams-tlfs-website
+        aria-label: GitHub Site     
+  favicon: images/favicon.ico
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+

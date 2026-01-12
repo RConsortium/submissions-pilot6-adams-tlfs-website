@@ -1,0 +1,13 @@
+---
+title: "Submissions WG Pilot 6"
+---
+
+## Introduction
+
+Welcome to the R Consortium R Submissions Pilot 6 documentation portal. You will find key materials, discussion notes, and additional information related to this pilot. To learn more about the submissions working group, please visit [rconsortium.github.io/submissions-wg/](https://rconsortium.github.io/submissions-wg/).
+
+## Objectives
+
+The objectives of the R Consortium R Submission Pilot 6 Project are:
+
+-   Use AI assistance to build out more ADaM and TLF programs for future submission pilots.
